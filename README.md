@@ -1,7 +1,7 @@
 # ytm-playlist
 Automated YouTube Music Playlist Generator
 
-After a failed attempt at making this work on Google App Engine (I would rather not have to pay Google in order to make a playlistgenerate from their systems), I am re-imagining this project as a stand-alone application that connects to ~~Google Play Music~~ YouTube Music to generate the playlist. As before, this is primarily for my own purposes, however others are free to take what I develop here and shape it however they want.
+After a failed attempt at making this work on Google App Engine (I would rather not have to pay Google in order to make a playlist generate from their systems), I am re-imagining this project as a stand-alone application that connects to ~~Google Play Music~~ YouTube Music to generate the playlist. As before, this is primarily for my own purposes, however others are free to take what I develop here and shape it however they want.
 
 The original basis for this app was my use of the Smart Playlist functionality in Apple's iTunes, which I needed in order to load music from my own personal music library on my G1 iPhone. I wanted a way to work my way through my music library, leaving no songs out of the cycle, but in a somewhat intelligent manner, while also providing random selections of music. To this end, I developed lists that were based on specific:
 
