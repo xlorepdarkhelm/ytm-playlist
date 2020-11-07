@@ -156,3 +156,5 @@ tags
 
 .python-version
 nohup.out
+
+headers_auth.json
